@@ -1,0 +1,22 @@
+name: pubsub
+description: "A lightweight and efficient state management solution for Flutter, implementing the Publisher-Subscriber pattern with minimal boilerplate and zero dependencies."
+version: 0.0.1
+homepage: https://github.com/p4-k4/pubsub
+repository: https://github.com/p4-k4/pubsub
+issue_tracker: https://github.com/p4-k4/pubsub/issues
+documentation: https://github.com/p4-k4/pubsub/blob/main/README.md
+
+environment:
+  sdk: ^3.6.0-326.0.dev
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
