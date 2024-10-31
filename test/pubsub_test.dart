@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:pubsub/pubsub.dart';
+import 'package:flutter_pubsub/pubsub.dart';
 
 // Test state class
 class Counter extends Pub {
